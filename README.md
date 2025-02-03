@@ -1,2 +1,2 @@
-# 3d sphere
+# 3D SPHERE
 
